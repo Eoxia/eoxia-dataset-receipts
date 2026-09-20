@@ -1,0 +1,24 @@
+{
+  "file_name": "1021_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "NaturElle",
+    "address": "Ccial LE POLYGONE, 34000 MONTPELLIER",
+    "siret_tva": "30364736600010"
+  },
+  "date": "2026-09-18",
+  "time": "13:06",
+  "amounts": {
+    "total_ttc": 30.20,
+    "total_ht": 27.45,
+    "taxes": [
+      {
+        "rate": 10.0,
+        "amount": 2.75
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "restaurant",
+  "confidence": "high"
+}

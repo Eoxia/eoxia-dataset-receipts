@@ -1,0 +1,28 @@
+{
+  "file_name": "1005_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "Maison Chabanol Boulangerie",
+    "address": "351 Avenue Louis Cancel, 34270 St Mathieu de Treviers",
+    "siret_tva": "48316554400014"
+  },
+  "date": "2026-09-10",
+  "time": "07:02",
+  "amounts": {
+    "total_ttc": 13.40,
+    "total_ht": 12.53,
+    "taxes": [
+      {
+        "rate": 5.5,
+        "amount": 0.46
+      },
+      {
+        "rate": 10.0,
+        "amount": 0.41
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "restaurant",
+  "confidence": "high"
+}

@@ -1,0 +1,19 @@
+{
+  "file_name": "1018_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "Repsol",
+    "address": "A-7 PK 7,5 A.S. LA JONQUERA, 17700 LA JONQUERA",
+    "siret_tva": null
+  },
+  "date": "2026-09-13",
+  "time": "14:35",
+  "amounts": {
+    "total_ttc": 59.67,
+    "total_ht": null,
+    "taxes": [],
+    "currency": "EUR"
+  },
+  "category": "transport",
+  "confidence": "high"
+}

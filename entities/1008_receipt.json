@@ -1,0 +1,24 @@
+{
+  "file_name": "1008_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "TotalEnergies SAS ARGEDIS",
+    "address": "Aire de Fabregues Nord Autoroute A9, Fabregues 34690",
+    "siret_tva": "3069160992846"
+  },
+  "date": "2026-09-13",
+  "time": "12:28",
+  "amounts": {
+    "total_ttc": 3.99,
+    "total_ht": 3.78,
+    "taxes": [
+      {
+        "rate": 5.5,
+        "amount": 0.21
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "supplies",
+  "confidence": "high"
+}

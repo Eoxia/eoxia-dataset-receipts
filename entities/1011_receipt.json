@@ -1,0 +1,24 @@
+{
+  "file_name": "1011_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "Hotel Vinaros",
+    "address": "C/ Febrer de la Torre, 12500 Vinaros Castellon (Espana)",
+    "siret_tva": "B03141595"
+  },
+  "date": "2026-09-13",
+  "time": "20:12",
+  "amounts": {
+    "total_ttc": 17.50,
+    "total_ht": 15.91,
+    "taxes": [
+      {
+        "rate": 10.0,
+        "amount": 1.59
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "restaurant",
+  "confidence": "high"
+}
