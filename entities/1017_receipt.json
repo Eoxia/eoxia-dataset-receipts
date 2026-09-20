@@ -1,0 +1,24 @@
+{
+  "file_name": "1017_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "Punto Blanco",
+    "address": "La Roca Village, s/n, 08430 Santa Agnes de Malanyanes",
+    "siret_tva": "A59060491"
+  },
+  "date": "2026-09-13",
+  "time": "15:51",
+  "amounts": {
+    "total_ttc": 24.90,
+    "total_ht": 20.58,
+    "taxes": [
+      {
+        "rate": 21.0,
+        "amount": 4.32
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "supplies",
+  "confidence": "high"
+}

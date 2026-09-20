@@ -1,0 +1,28 @@
+{
+  "file_name": "1015_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "VERDERA S.L.",
+    "address": "CTRA. N-340, PK. 1051 12500 VINAROS",
+    "siret_tva": "B12108710"
+  },
+  "date": "2026-09-15",
+  "time": "19:21",
+  "amounts": {
+    "total_ttc": 61.41,
+    "total_ht": 51.20,
+    "taxes": [
+      {
+        "rate": 21.0,
+        "amount": 9.72
+      },
+      {
+        "rate": 10.0,
+        "amount": 0.49
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "transport",
+  "confidence": "high"
+}

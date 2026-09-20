@@ -1,0 +1,24 @@
+{
+  "file_name": "1020_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "CHO CHAI",
+    "address": "17 PL DU NOMBRE D OR, 34000 MONTPELLIER",
+    "siret_tva": "90339728900021"
+  },
+  "date": "2026-09-17",
+  "time": "21:01",
+  "amounts": {
+    "total_ttc": 18.00,
+    "total_ht": 16.36,
+    "taxes": [
+      {
+        "rate": 10.0,
+        "amount": 1.64
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "restaurant",
+  "confidence": "high"
+}

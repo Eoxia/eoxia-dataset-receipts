@@ -1,0 +1,24 @@
+{
+  "file_name": "1009_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "ESSO LA PALME",
+    "address": "Autoroute A9, Aire de la Palme Ouest, 11480 La Palme",
+    "siret_tva": "49107702000726"
+  },
+  "date": "2026-09-13",
+  "time": "13:27",
+  "amounts": {
+    "total_ttc": 7.90,
+    "total_ht": 7.18,
+    "taxes": [
+      {
+        "rate": 10.0,
+        "amount": 0.72
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "supplies",
+  "confidence": "high"
+}

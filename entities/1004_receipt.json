@@ -1,0 +1,24 @@
+{
+  "file_name": "1004_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "FNAC",
+    "address": "Centre Commercial Le Polygone, 1 Rue des Pertuisanes, 34000 Montpellier",
+    "siret_tva": "33447335200212"
+  },
+  "date": "2026-09-05",
+  "time": "16:53",
+  "amounts": {
+    "total_ttc": 146.78,
+    "total_ht": 139.14,
+    "taxes": [
+      {
+        "rate": 5.5,
+        "amount": 7.64
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "other",
+  "confidence": "high"
+}

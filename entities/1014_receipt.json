@@ -1,0 +1,24 @@
+{
+  "file_name": "1014_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "STATION INTERMARCHE",
+    "address": "CC LES PORTES DU SOLEIL, 34990 JUVIGNAC",
+    "siret_tva": null
+  },
+  "date": "2026-09-15",
+  "time": "22:39",
+  "amounts": {
+    "total_ttc": 20.00,
+    "total_ht": 16.67,
+    "taxes": [
+      {
+        "rate": 20.0,
+        "amount": 3.33
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "transport",
+  "confidence": "high"
+}
