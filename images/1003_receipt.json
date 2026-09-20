@@ -1,0 +1,24 @@
+{
+  "file_name": "1003_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "Station Intermarché",
+    "address": "CC Les Portes du Soleil, 34990 Juvignac",
+    "siret_tva": null
+  },
+  "date": "2026-09-02",
+  "time": "16:50",
+  "amounts": {
+    "total_ttc": 78.23,
+    "total_ht": 65.19,
+    "taxes": [
+      {
+        "rate": 20.0,
+        "amount": 13.04
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "fuel",
+  "confidence": "high"
+}
