@@ -1,0 +1,52 @@
+{
+  "image": "1001.jpg",
+  "merchant": {
+    "name": "CARREFOUR EXPRESS",
+    "brand": "Carrefour Express",
+    "store": "MONTPELLIER JUVENAL",
+    "address": "34000 MONTPELLIER",
+    "phone": "0467839202"
+  },
+  "transaction": {
+    "date": "2026-09-02",
+    "time": "20:30:02",
+    "register": "002",
+    "cashier": "0200",
+    "receipt_number": "000403",
+    "payment_method": "CTE PASS SS CONTACT"
+  },
+  "financials": {
+    "currency": "EUR",
+    "total_ttc": 9.37,
+    "total_ht": 8.88,
+    "vat_details": [
+      {
+        "rate": 5.50,
+        "base_ht": 8.88,
+        "amount": 0.49
+      }
+    ],
+    "total_vat": 0.49
+  },
+  "items": [
+    {
+      "description": "280GR TRANCETTO CA",
+      "quantity": 1,
+      "unit_price": 1.89,
+      "total_price": 1.89
+    },
+    {
+      "description": "300G PRINCE CHOCO",
+      "quantity": 2,
+      "unit_price": 1.87,
+      "total_price": 3.74
+    }
+  ],
+  "items_count": 4,
+  "loyalty": {
+    "card_number": "1030550423572191100",
+    "balance": 1.39,
+    "balance_date": "2026-09-01"
+  }
+}
+```[cite: 2]
