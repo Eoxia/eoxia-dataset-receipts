@@ -1,0 +1,28 @@
+{
+  "file_name": "1002_receipt.jpg",
+  "document_type": "receipt",
+  "merchant": {
+    "name": "Franprix",
+    "address": "45 Av du Pont Juvenal, 34000 Montpellier",
+    "siret_tva": null
+  },
+  "date": "2026-09-01",
+  "time": "20:04",
+  "amounts": {
+    "total_ttc": 18.35,
+    "total_ht": 17.26,
+    "taxes": [
+      {
+        "rate": 5.5,
+        "amount": 0.82
+      },
+      {
+        "rate": 10.0,
+        "amount": 0.27
+      }
+    ],
+    "currency": "EUR"
+  },
+  "category": "supplies",
+  "confidence": "high"
+}
